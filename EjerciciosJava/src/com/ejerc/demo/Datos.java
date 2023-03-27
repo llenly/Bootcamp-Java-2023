@@ -3,20 +3,23 @@ package com.ejerc.demo;
 public class Datos {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
-		 int Dia = 10;
+//VARIABLES INICIALIZADAS
+		
+		 int dia = 10;
 		 long nDni = 57433222;
-		 float Precio = 0;
-		final boolean Activo= true;
+		 double precio = 0;
+	    final boolean ACTIVO= true;
 		 
+// DAR VALOR FLOTANTE A PRECIO
+		 precio =  (float)135.12;
+
+//IMPRIMIR EN CONSOLA VAR		 
 		 
-		 Precio =  (float)135.12;
-		 
-		System.out.println( "Dia" + Dia + "\n ");
-		System.out.println( "Dia" + nDni + "\n ");
-		System.out.println( "Dia" + Precio + "\n ");
-		System.out.println( "Dia" + Activo + "\n ");
+		System.out.println( "Dia\t" + dia + "\n ");
+		System.out.println( "nDni\t" + nDni + "\n ");
+		System.out.println( "Precio\t" + precio + "\n ");
+		System.out.println( "ACTIVO\t" + ACTIVO + "\n ");
 		 
 		 
 
