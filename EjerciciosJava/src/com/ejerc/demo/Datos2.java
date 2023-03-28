@@ -15,7 +15,7 @@ public class Datos2 {
 		
 
 		 
-//  PARA ACCEDER A LAS VAR HAY QUE DECLARARLA STATIC COMO EL METODO
+//  PARA ACCEDER A LAS VAR HAY QUE DECLARARLAS STATIC COMO EL METODO
 		 precio =  (float)135.12;
 
 //IMPRIMIR EN CONSOLA VAR		 
@@ -29,8 +29,5 @@ public class Datos2 {
 	}
 	
 //
-	public static void prueba2() {
-		precio = 1567.10;
-	}
-
+	
 }
