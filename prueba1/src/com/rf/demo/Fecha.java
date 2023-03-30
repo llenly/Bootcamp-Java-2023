@@ -23,16 +23,16 @@ public class Fecha {
 		
 		//version con dias reales 
 		
-		 if(mes >=1 && mes <= 12 ) {
-			 if(año != 0) {
-				 switch(mes) {
-				 case 1
-				 }
-			 }
-		 }
+		// if(mes >=1 && mes <= 12 ) {
+		//	 if(año != 0) {
+		//		 switch(mes) {
+		//		
+		//		 }
+		//	 }
+		// }
 		
 		
 		
-	}
+	 }
 
-}
+ }
