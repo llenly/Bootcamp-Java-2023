@@ -8,11 +8,11 @@ public class Lista {
 //grupo es el padre clase abastracta no puede ser instanciada no puede crear objetos , pero los hijos de grupo son grupos y pueden extender de la clase padre abstracta, hay que importar los hijos 
 // List es el att PADRE de tipo strinf y se llama list 
 	
-	List <String> nombre_que_quieras;
+	List <String> nombre_quieras;
 	
 	// contrusctor crear un objjeto de list instanciarlo 
 	public Lista() {
-		nombre_que_quieras = new ArrayList<String>();
+		nombre_quieras = new ArrayList<String>();
 	}
 	
 }
